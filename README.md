@@ -22,5 +22,11 @@ Documentation: Setup instructions and detailed analysis scripts.
 
 This repository serves as a reference for researchers interested in synthetic population modeling and epidemiological simulations, highlighting the importance of model selection in generating accurate public health predictions.
 
+## Citation
+If you use this code or dataset, please cite:
+```
+Imran, M. M. A., Kim, Y., Jung, G., & Kim, Y. B. (2023). EFFECTS OF DIFFERENT POPULATION SYNTHESIS MODELS IN THE EPIDEMIOLOGICAL SEIR (SUSCEPTIBLE-EXPOSED-INFECTEDRELEASED) AGENT-BASED MODEL. International Journal of Industrial Engineering, 30(3).
+```
+
 ## Contact
 For questions or collaboration, please contact **muazimran27@gmail.com**.
