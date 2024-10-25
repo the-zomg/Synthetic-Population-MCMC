@@ -17,7 +17,10 @@ The study emphasizes how minor inaccuracies in social network attributes can pro
 Contents
 
 Code: Implementation of IPF, MCMC, and SEIR-ABM models.
+
 Data: Synthetic population datasets and validation metrics.
+
 Documentation: Setup instructions and detailed analysis scripts.
+
 This repository serves as a reference for researchers interested in synthetic population modeling and epidemiological simulations, highlighting the importance of model selection in generating accurate public health predictions.
 
