@@ -1,7 +1,5 @@
 # Synthetic-Population-MCMC
 
-Effects of Different Population Synthesis Models in the Epidemiological SEIR Agent-Based Model
-
 This repository contains the code, data, and models used for the research article titled **"Effects of Different Population Synthesis Models in the Epidemiological SEIR (Susceptible-Exposed-Infected-Released) Agent-Based Model."**
 
 ## Overview
