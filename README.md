@@ -14,7 +14,7 @@ The study emphasizes how minor inaccuracies in social network attributes can pro
 
 ## Contents
 
-Code: Implementation of IPF, MCMC, and SEIR-ABM models.
+Code: Implementation of MCMC for SEIR-ABM models.
 
 Data: Synthetic population datasets and validation metrics.
 
